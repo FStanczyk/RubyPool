@@ -15,6 +15,9 @@ Tests are not full, I am still working with them but as long as I tried everythi
 Contract was not audited and it may (surely has) some weaknesses.
 
 In Future: 
-  -finish testing with larger group of stakers.
-  -create web application (React front end).
-  -Most probably change the system of rewards since it doesn't look gas effective.
+
+ -finish testing with larger group of stakers.
+ 
+ -create web application (React front end).
+ 
+ -Most probably change the system of rewards since it doesn't look gas effective.
